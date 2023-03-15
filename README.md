@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 I'm Web developer using Java, Srping.
 
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
