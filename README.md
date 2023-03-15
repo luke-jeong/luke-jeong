@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **luke-jeong/luke-jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+I'm Web developer using Java, Srping.
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Java&logoColor=white"/>
