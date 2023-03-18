@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
+Who wants to be a strongest programmer
+
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
