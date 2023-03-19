@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 
 Who wants to be a strongest programmer
 
+[Blog](https://velog.io/@ghjeong)
+
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
