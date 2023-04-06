@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm Luke who wants to be a strongest programmer
 
-[Blog](https://velog.io/@ghjeong)
+[Blog](https://velog.io/@ghjeong)  
 📫 How to reach me: jgh3482@gmail.com
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
