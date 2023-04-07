@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-I'm Luke who wants to be a strongest programmer
+I'm Luke
 
 ⚡ Here's my [Blog](https://velog.io/@ghjeong)  
 
